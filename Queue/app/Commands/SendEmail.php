@@ -19,6 +19,6 @@ class SendEmail extends Command implements ShouldQueue
      */
     public function __construct($string)
     {
-        
+
     }
 }
